@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845388362418",
+    "firebase_url": "https://bus-tracking-app-a19d5.firebaseio.com",
+    "project_id": "bus-tracking-app-a19d5",
+    "storage_bucket": "bus-tracking-app-a19d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845388362418:android:df9719213fcf95f5264fab",
+        "android_client_info": {
+          "package_name": "com.example.bustrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845388362418-39br7v5797bntnf2k5740urpn8q4cnj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Gyqw3mGI9XPuBcMbww-aIXJmKSwgWgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845388362418-39br7v5797bntnf2k5740urpn8q4cnj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
